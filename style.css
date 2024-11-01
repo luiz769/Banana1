@@ -1,0 +1,38 @@
+body {
+	background: chocolate;
+	text-align: center;
+	font-size: 40px;
+}
+
+.titulo {
+	font-size: 35px;
+	color: blueviolet;
+}
+
+.paragrafo1 {
+	font-size: 25px;
+	color: blueviolet;
+}
+
+.paragrafo2 {
+	font-size: 50;
+	color: darkred;
+}
+
+.naosei {
+	font-size: 125px;
+	color: burlywood;
+	text-align: !important;
+	shape-margin: 400px;
+}
+
+.box {
+	  background-color: darkred;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: 100px;
+    border-radius: 150px;
+}
